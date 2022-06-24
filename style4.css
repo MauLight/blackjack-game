@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 575px;
+    height: 385px;
+
+background: #1B244A;
+}
+
+button {
+    background: none;
+}
+
+#home {
+
+width: 149px;
+height: 36px;
+left: 340px;
+top: 68px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+
+#guest {
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+    
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+    
+    text-align: center;
+    
+    color: #EEEEEE; 
+}
+
+.box {
+    
+    background-color: #0a0001;
+    
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+}
+
+div .out {
+height: 120px;
+left: 100px;
+top: 125px;
+margin-top: 0%  ;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
